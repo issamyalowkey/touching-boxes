@@ -1,2 +1,2 @@
-# touching-boxes
-boxes change colors when they touch
+# p5.play-boilerplate
+Boiler plate for p5.play
